@@ -1,2 +1,2 @@
 # hello
-Simple repositiory to investigate the git protocol
+A repositiory with which to investigate how git works.
